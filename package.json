@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "0.0.1",
+  "description": "A lightweight Express.js framework with Sequelize, automatic module generation, authentication, and a CLI for easy development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathius262/nodejs-tutorial.git"
+  },
+  "keywords": [
+    "framework",
+    "frontend",
+    "backend",
+    "server",
+    "nodeJS",
+    "npm"
+  ],
+  "author": "Nathius262",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nathius262/nodejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/Nathius262/nodejs-tutorial#readme"
+}
